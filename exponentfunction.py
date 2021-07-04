@@ -6,4 +6,4 @@ def rise_to_power(base_num, pow_num):
     return result
 
 
-print(rise_to_power(3, 2))
+print(rise_to_power(3, 5))
